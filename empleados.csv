@@ -1,0 +1,4 @@
+﻿"cedula,nombre_completo,correo_electronico,usuario,contrasena,activo"
+"123456789,Pepito Perez,Pepito@restauranteetitc.com,admininicial,admin123456,TRUE"
+"987654321,Juan Gomez,JuanGomez@restauranteetitc.com,juangomez,password123,TRUE"
+"456789123,Maria Lopez,MariaLopez@restauranteetitc.com,marialopez,lopez2024,FALSE"
