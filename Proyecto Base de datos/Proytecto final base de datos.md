@@ -18,10 +18,7 @@ A continuación, se presenta un conjunto de preguntas de nivel básico e interme
 
 
 - **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/1.png" width=90%>
-</div>
-  ```sql
+![Consulta 1](./Imagenes proyecto/1.png)
   
   
 
