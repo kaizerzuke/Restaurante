@@ -18,7 +18,7 @@ A continuación, se presenta un conjunto de preguntas de nivel básico e interme
 
 
  **Consulta en SQL:**
-![Query 1 Image](Proyecto Base de datos/Imagenes proyecto/1.PNG)
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/1.PNG)
   
   
 
