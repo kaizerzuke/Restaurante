@@ -17,8 +17,8 @@ A continuación, se presenta un conjunto de preguntas de nivel básico e interme
 **Objetivo:**  Conseguir el nombre del cliente con su respectivo correo electronico.
 
 
-- **Consulta en SQL:**
-![Consulta 1](../Imagenes proyecto/1.png)
+ **Consulta en SQL:**
+![Query 1 Image](https://example.com/path/to/your/image.1.png)
   
   
 
