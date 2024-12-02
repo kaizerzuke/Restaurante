@@ -27,10 +27,7 @@ A continuación, se presenta un conjunto de preguntas de nivel básico e interme
 
 
  **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/2.png" width=90%>
-</div>
-  ```sql
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/2.PNG)
   
   
 
@@ -39,10 +36,7 @@ A continuación, se presenta un conjunto de preguntas de nivel básico e interme
 
 
  **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/3.png" width=90%>
-</div>
-  ```sql
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/3.PNG)
   
   
 
@@ -51,10 +45,7 @@ A continuación, se presenta un conjunto de preguntas de nivel básico e interme
 
 
  **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/4.png" width=90%>
-</div>
-  ```sql
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/4.PNG)
   
   
 
@@ -63,10 +54,7 @@ A continuación, se presenta un conjunto de preguntas de nivel básico e interme
 
 
  **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/5.png" width=90%>
-</div>
-  ```sql
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/5.PNG)
   
 
 ### 6. Eliminar un cliente por su cedula.
@@ -74,10 +62,7 @@ A continuación, se presenta un conjunto de preguntas de nivel básico e interme
 
 
  **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/6.png" width=90%>
-</div>
-  ```sql
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/6.PNG)
   
   
 
@@ -86,10 +71,7 @@ A continuación, se presenta un conjunto de preguntas de nivel básico e interme
 
 
  **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/7.png" width=90%>
-</div>
-  ```sql
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/7.PNG)
   
   
 
@@ -98,10 +80,7 @@ A continuación, se presenta un conjunto de preguntas de nivel básico e interme
 
 
  **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/8.png" width=90%>
-</div>
-  ```sql
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/8.PNG)
   
   
 
@@ -110,10 +89,7 @@ A continuación, se presenta un conjunto de preguntas de nivel básico e interme
 
 
  **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/9.png" width=90%>
-</div>
-  ```sql
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/9.PNG)
   
   
 
@@ -122,10 +98,7 @@ A continuación, se presenta un conjunto de preguntas de nivel básico e interme
 
 
  **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/10.png" width=90%>
-</div>
-  ```sql
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/10.PNG)
   
   
 
