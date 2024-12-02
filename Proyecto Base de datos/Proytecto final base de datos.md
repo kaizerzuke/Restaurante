@@ -18,7 +18,7 @@ A continuación, se presenta un conjunto de preguntas de nivel básico e interme
 
 
 - **Consulta en SQL:**
-![Consulta 1](./Imagenes proyecto/1.png)
+![Consulta 1](../Imagenes proyecto/1.png)
   
   
 
