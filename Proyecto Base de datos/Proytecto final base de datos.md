@@ -107,11 +107,7 @@ A continuación, se presenta un conjunto de preguntas de nivel básico e interme
 
 
  **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/11.png" width=90%>
-</div>
-  ```sql
-  
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/11.PNG)
   
 
 ### 12. Obtener todas las ventas realizadas por el empleado cuyo usuario es admiinicial.
@@ -119,10 +115,7 @@ A continuación, se presenta un conjunto de preguntas de nivel básico e interme
 
 
  **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/12.png" width=90%>
-</div>
-  ```sql
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/12.PNG)
   
   
 
@@ -131,10 +124,7 @@ A continuación, se presenta un conjunto de preguntas de nivel básico e interme
 
 
  **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/13.png" width=90%>
-</div>
-  ```sql
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/13.PNG)
   
   
 
@@ -143,10 +133,7 @@ A continuación, se presenta un conjunto de preguntas de nivel básico e interme
 
 
  **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/14.png" width=90%>
-</div>
-  ```sql
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/14.PNG)
   
   
 
@@ -155,60 +142,42 @@ A continuación, se presenta un conjunto de preguntas de nivel básico e interme
 
 
  **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/15.png" width=90%>
-</div>
-  ```sql
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/15.PNG)
   
   ### 16. Obtener el proveedor con mayor numero de productos disponibles en stock.
 **Objetivo:**  Obtener el proveedor con mayor stock.
 
 
  **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/16.png" width=90%>
-</div>
-  ```sql
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/16.PNG)
   
   ### 17. Actualizar el precio de venta de un producto basado en el precio de compra.
 **Objetivo:**  Actualiza el precico de el producto segun el precio base de la compra.
 
 
  **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/17.png" width=90%>
-</div>
-  ```sql
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/17.PNG)
 
   ### 18. Cuales son los 5 productos mas vendidos en terminos de cantidad.
 **Objetivo:**  El objetivo de esta consulta es identificar los 5 productos mas populares basandose en la cantidad total de unidades vendidas y ordenados de mayor a menor.
 
 
  **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/18.png" width=90%>
-</div>
-  ```sql
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/18.PNG)
 
   ### 19. Listar todos los empleados que han realizado almenos una venta.
 **Objetivo:** El objetivo es listar los empleados que han realizado minimo una venta.
 
 
  **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/19.png" width=90%>
-</div>
-  ```sql
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/19.PNG)
 
  ### 20. Obtener los productos mas vendidos (TOP 5).
 **Objetivo:**  Obtener los 5 productos mas vendidos en la tienda.
 
 
  **Consulta en SQL:**
-<div align="center">
-  <img src="./Imagenes proyecto/20.png" width=90%>
-</div>
-  ```sql
+![Query 1 Image](https://github.com/kaizerzuke/Restaurante/blob/main/Proyecto%20Base%20de%20datos/Imagenes%20proyecto/20.PNG)
 
  
 ## Conclusión
